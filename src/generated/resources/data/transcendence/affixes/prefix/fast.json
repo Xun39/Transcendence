@@ -1,0 +1,20 @@
+{
+  "type": "transcendence:prefix",
+  "entries": [
+    {
+      "type": "attribute",
+      "amount": {
+        "max": 1.0,
+        "min": 0.5
+      },
+      "id": "minecraft:generic.attack_speed",
+      "operation": "add_value",
+      "slot": "mainhand",
+      "targets": [
+        "c:tools/melee_weapon"
+      ]
+    }
+  ],
+  "operation": "transcendence:modify_attribute",
+  "weight": 100
+}

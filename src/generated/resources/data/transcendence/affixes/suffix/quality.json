@@ -1,0 +1,33 @@
+{
+  "type": "transcendence:suffix",
+  "entries": [
+    {
+      "type": "attribute",
+      "amount": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "id": "minecraft:generic.attack_damage",
+      "operation": "add_value",
+      "slot": "mainhand",
+      "targets": [
+        "c:tools/melee_weapon"
+      ]
+    },
+    {
+      "type": "attribute",
+      "amount": {
+        "max": 3.0,
+        "min": 2.0
+      },
+      "id": "minecraft:generic.attack_damage",
+      "operation": "add_value",
+      "slot": "mainhand",
+      "targets": [
+        "transcendence:charm"
+      ]
+    }
+  ],
+  "operation": "transcendence:modify_attribute",
+  "weight": 100
+}

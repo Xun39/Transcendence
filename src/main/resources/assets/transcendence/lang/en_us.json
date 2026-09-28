@@ -1,0 +1,16 @@
+{
+  "item.transcendence.test_charm": "Test Charm",
+  "affix.transcendence.prefix.sharp": "Sharp",
+  "affix.transcendence.prefix.fast": "Fast",
+  "affix.transcendence.suffix.quality": "Quality",
+  "affix.transcendence.suffix.well_forged": "Well Forged",
+  "tooltip.transcendence.affix": "%s: %s",
+  "transcendence.affix.value": "%s %s",
+  "affix.transcendence.name.prefix": "%s %s",
+  "affix.transcendence.name.suffix": "%s of %s",
+  "transcendence.affix.command.no_item": "Hold an item in your main hand.",
+  "transcendence.affix.command.invalid_kind": "Use prefix, suffix, or both.",
+  "transcendence.affix.command.no_match": "No applicable affix was found, or this affix type is already present.",
+  "transcendence.affix.command.success": "Applied %s affix(es).",
+  "transcendence.affix.command.cleared": "Cleared Transcendence affixes."
+}
